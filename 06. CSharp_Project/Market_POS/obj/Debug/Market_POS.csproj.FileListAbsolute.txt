@@ -1,0 +1,123 @@
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\Market_POS\Market_POS\obj\Debug\Market_POS.Form3.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\bin\Debug\Market_POS.exe.config
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\bin\Debug\Market_POS.exe
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\bin\Debug\Market_POS.pdb
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.Form1.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.Form2.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.Form3.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.exe
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\Market_POS\Market_POS\obj\Debug\Market_POS.Form3.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe.config
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\bin\Debug\Market_POS.pdb
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form1.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form2.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form3.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.exe
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form3.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form3.resources
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form4.resources
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\KB\Desktop\c# 프로젝트\포스기 솔루션\Market_POS_p\Market_POS\obj\Debug\Market_POS.pdb
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form4.resources
+C:\Users\KB\Desktop\OSR\CSharp_project\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form4.resources
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form3.resources
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form4.resources
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\KB\Desktop\새 폴더 (2)\Market_POS_p\Market_POS\obj\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe.config
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\bin\Debug\Market_POS.exe
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\bin\Debug\Market_POS.pdb
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form1.resources
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form2.resources
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form3.resources
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form4.resources
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form5.resources
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.exe
+C:\Users\wkdsk\Desktop\Market_POS_p\Market_POS\obj\Debug\Market_POS.pdb
+\\192.168.0.111\shareFolder\하사안서준\예비역 병장 박재형\Market_POS_p\Market_POS\obj\Debug\Market_POS.Form5.resources
