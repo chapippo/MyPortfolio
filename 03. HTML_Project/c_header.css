@@ -1,0 +1,116 @@
+#main_header {
+    /* 중앙정렬 */
+    width: 960px;
+    margin: 0 auto;
+    /* 자식태그에 absolute 활용하기 위함, height(높이)도 정해져야 활용할 수 있으니 */
+    height: 200px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#main_header>#title {
+    position: absolute;
+    width: 300px;
+    height: 110px;    
+    top: 35px;
+    left: 350px;
+}
+
+#main_header>#title>#title1 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 2em;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 0.822);
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px,
+    #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, -7px 15px 13px rgba(206,89,40,0);
+}
+
+#main_header>#title>#title2 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 3.3em;
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    color: rgba(255, 255, 255, 0.822);
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px,
+    #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, -7px 15px 13px rgba(206,89,40,0);
+}
+
+/* 네비게이션 바 설정 */
+#main_header>#main_gnb {
+    position: absolute;
+    right: 0px;
+    top: 10px;
+}
+
+#main_header>#main_lnb {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;    
+}
+
+#main_header>#sub_lnb {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+#lnb_color {
+    position: relative;
+    top: 168px;
+    height: 40px;
+    background: rgba(24, 24, 58, 0.623);
+    -webkit-box-shadow: 5px 5px 10px -1px rgba(0,0,0,0.5); 
+    box-shadow: 5px 5px 10px -1px rgba(0,0,0,0.5);
+    border-radius: 10px 10px 10px 10px;
+}
+
+/* #main_gnb> */
+#main_gnb>ul {
+    overflow: hidden;
+}
+#main_gnb>ul>li {
+    float: left;
+}
+#main_gnb>ul>li>a 
+{
+    display: block;
+    padding: 2px 10px;
+    color: white;
+    /* border: 1px solid black; */
+    font-family: 'Hahmlet', serif;
+    font-size: 1em;
+}
+
+#main_lnb>ul {
+    overflow: hidden;
+}
+#main_lnb>ul>li {
+    float: left;
+}
+#main_lnb>ul>li>a 
+{
+    display: inline;
+    padding: 2px 10px;
+    color: white;
+    font-family: 'Hahmlet', serif;
+    font-size: 1em;
+}
+
+#sub_lnb>ul {
+    overflow: hidden;
+}
+
+#sub_lnb>ul>li {
+    float: left;
+}
+
+#sub_lnb>ul>li>a {
+    display: inline;
+    padding: 2px 10px;
+    font-family: 'Hahmlet', serif;
+    color: white;
+    font-size: 1em;
+}
